@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I am Yahya Khan Niazi  
 
-<!--
-**yahyakhan1775/yahyakhan1775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 About Me
+A passionate learner of *Python* and *Artificial Intelligence* from Afghanistan.  
+I love exploring how AI can solve real-world problems and sharing my learning journey with others.  
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Learning Python deeply with practical projects  
+- Exploring AI concepts step by step  
+- Building small systems like Student Management, Inventory Management, and Attendance Management  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Fact
+I enjoy connecting programming concepts with Afghan daily life examples to make learning easier.
